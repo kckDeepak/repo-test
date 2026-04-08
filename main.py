@@ -1,0 +1,1 @@
+print("Pair batch kosam!")
